@@ -73,8 +73,8 @@ I'm a third-semester (second-year) Computer Science Engineering student at R V C
 ## Activities
 
 - **College chess team member:** filled in for first-team players and contributed to 2 tournament victories
-- **Electives:** Java, Electronics, Electrical
-- **Sports:** competitive swimming
+- **Electives:** Java, Electronics, Electrical, Bio-inspired Engineering
+- **Sports:** Swimming
 
 ---
 
