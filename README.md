@@ -20,11 +20,6 @@
 
 I'm a third-semester (second-year) Computer Science Engineering student at R V College of Engineering, Bengaluru, with a foundation in systems programming, computer architecture, and applied machine learning. I built a chess engine from scratch and enjoy understanding how things work from the ground up, from logic gates to CPUs to neural networks. I'm experienced in literature surveys, research methodology, and Git-based workflows, and I'm especially interested in interdisciplinary work where computer science meets biology.
 
-**Education**
-
-- **B.E. in Computer Science Engineering**, R V College of Engineering, Bengaluru (08/2025 to present). Coursework: Data Structures, Algorithms, Computer Organization.
-- **12th Boards (CBSE, PCMB)**, Narayana E Techno Whitefield, Bengaluru (2025).
-
 ---
 
 ## Selected projects
@@ -34,7 +29,6 @@ I'm a third-semester (second-year) Computer Science Engineering student at R V C
 | [**SlowFish**](https://github.com/tejaswibteggihalli/SlowFish-a-python-based-chess-engine) | Custom chess engine in Python with a pygame interface, built on Eddie Sharick's tutorial and extended with depth-5 negamax, alpha-beta pruning, move ordering, and piece-square evaluation. Informed by literature surveys on alpha-beta pruning and evaluation heuristics. |
 | [**AMD Detection**](https://github.com/shield44-project/Age-Related-Macular-Degeneration) | 2nd-semester EL team project: diagnosis of age-related macular degeneration from fundus images using deep learning and computer vision, with models trained on Kaggle. ViT/DeiT classifiers and Grad-CAM explanations, packaged as a Qt application with a Flask backend. |
 | [**WasteSort AI**](https://github.com/tejaswibteggihalli/WasteSort-AI) | Classifies photos into six waste categories and suggests disposal. Fine-tuned EfficientNet-B0 reached 96.6% validation accuracy. |
-| [**Quarl**](https://github.com/tejaswibteggihalli/3rd_sem_EL) *(in progress)* | 3rd-semester EL team project using learning-based methods to optimize quantum circuits with Quartz; I work on encoder ablations. |
 | [**Hack Assembler**](https://github.com/tejaswibteggihalli/Nand2tetris_Assembler) | Two-pass assembler for the Nand2Tetris Hack language, with symbol resolution and 16-bit machine-code output. |
 | [**C Pointers Field Guide**](https://github.com/tejaswibteggihalli/Pointers_Guide) | Interactive guide with a memory visualizer, pointer-arithmetic lab, and 70 edge-case questions. |
 | [**Dayflow**](https://github.com/tejaswibteggihalli/Team_Ninad) | Hackathon HR-management prototype built with Node.js and SQLite. |
@@ -52,7 +46,7 @@ I'm a third-semester (second-year) Computer Science Engineering student at R V C
 
 **Machine learning**
 
-<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white">
+<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"> <img alt="Google Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=222">
 
 **Embedded**
 
