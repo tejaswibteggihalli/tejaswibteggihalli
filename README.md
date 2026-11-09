@@ -18,7 +18,7 @@
 
 ## About
 
-I enjoy building chess engines and understanding how they work, from search and evaluation to the systems underneath. I’m a second-year Computer Science student at RV College of Engineering, Bengaluru. Alongside chess programming, I’m exploring Nand2Tetris Part 2, deep learning, quantum-circuit optimization, and Arduino/ESP32 projects. I’m especially interested in interdisciplinary work where computer science meets biology.
+I enjoy building chess engines and understanding how they work, from search and evaluation to the systems underneath. I’m a second-year Computer Science student at RV College of Engineering, Bengaluru. Alongside chess programming, I’m exploring deep learning, quantum-circuit optimization, and Arduino/ESP32 projects. I’m especially interested in interdisciplinary work where computer science meets biology.
 
 ---
 
@@ -41,33 +41,51 @@ I’ve also built ESP32 air-quality/fire-alert and sensor-driven irrigation prot
 
 ## Toolkit
 
-**Languages**
-
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=222"> <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=222">
-
-**Machine learning**
-
-<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"> <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"> <img alt="Google Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=222">
-
-**Embedded**
-
-<img alt="Arduino" src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white"> <img alt="ESP32" src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white">
-
-**Tools**
-
-<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<table width="100%">
+  <tr>
+    <th align="left">Languages</th>
+    <th align="left">Machine learning</th>
+    <th align="left">Embedded</th>
+    <th align="left">Tools</th>
+  </tr>
+  <tr valign="top">
+    <td>
+      <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"><br>
+      <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"><br>
+      <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=222"><br>
+      <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"><br>
+      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=222">
+    </td>
+    <td>
+      <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"><br>
+      <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"><br>
+      <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"><br>
+      <img alt="Google Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=222">
+    </td>
+    <td>
+      <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white"><br>
+      <img alt="ESP32" src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white">
+    </td>
+    <td>
+      <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## Courses & learning
 
-**Completed: Nand2Tetris, Part I**
-Built up from Boolean logic gates through combinational and sequential chips to an ALU, CPU, assembler, and machine-language programs. It gave me a hands-on foundation in how software instructions map onto hardware.
+**Completed**
+
+| Course | Covered |
+| :-- | :-- |
+| **Nand2Tetris, Part I** | Built up from Boolean logic gates through combinational and sequential chips to an ALU, CPU, assembler, and machine-language programs. It gave me a hands-on foundation in how software instructions map onto hardware. |
+| **Nand2Tetris, Part II** | VM translator, compiler, and operating system. |
+| **MIT 6.S191** | Introduction to Deep Learning. |
 
 **Currently studying**
 
-- Nand2Tetris Part II (VM translator, compiler, and operating system)
-- MIT 6.S191 Introduction to Deep Learning
 - Python data structures, algorithms, and interview problem-solving
 
 ---
