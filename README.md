@@ -12,7 +12,7 @@
 
 ## About
 
-I enjoy building chess engines and understanding how they work, from search and evaluation to the systems underneath. I’m a second-year Computer Science student at RV College of Engineering, Bengaluru. Alongside chess programming, I’m exploring Nand2Tetris Part 2, deep learning, quantum-circuit optimization, and Arduino/ESP32 projects. I’m especially interested in interdisciplinary work where computer science meets biology.
+ I’m a second-year Computer Science student at RV College of Engineering, Bengaluru. I enjoy building chess engines and understanding how they work, from search and evaluation to the systems underneath. Alongside chess programming, I’m exploring Nand2Tetris Part 2, deep learning, quantum-circuit optimization, and Arduino/ESP32 projects. I’m especially interested in interdisciplinary work where computer science meets biology.
 
 ## Selected projects
 
