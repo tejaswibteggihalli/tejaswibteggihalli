@@ -13,50 +13,46 @@
 
 ## About
 
-Second-year CSE student who likes understanding things from the ground up—from logic gates and CPUs to neural networks. Currently exploring Nand2Tetris Part 2, deep learning, and a team quantum-circuit optimization project. Also work with Arduino and ESP32; especially interested in interdisciplinary CS and biology.
+Second-year CSE student at RV College of Engineering, Bengaluru. I like understanding things from the ground up—from logic gates and CPUs to neural networks. Currently exploring Nand2Tetris Part 2, deep learning, and a team quantum-circuit optimization project. I also work with Arduino and ESP32, and am especially interested in interdisciplinary CS and biology.
 
 ## Selected work
 
 <table>
   <tr>
-    <td width="50%"><strong><a href="https://github.com/tejaswibteggihalli/SlowFish-a-python-based-chess-engine">♞ SlowFish</a></strong><br>Python chess engine · pygame · depth-5 negamax, alpha-beta pruning, move ordering, and piece-square evaluation.</td>
-    <td width="50%"><strong><a href="https://github.com/shield44-project/Age-Related-Macular-Degeneration">◉ AMD Detection</a></strong><br>Team retinal-screening project with ViT/DeiT, Grad-CAM, and a Qt app backed by Flask.</td>
+    <td width="33%"><a href="https://github.com/tejaswibteggihalli/SlowFish-a-python-based-chess-engine"><img alt="Python" src="https://img.shields.io/badge/%E2%99%9E-8B5CF6?style=for-the-badge"></a><br><strong><a href="https://github.com/tejaswibteggihalli/SlowFish-a-python-based-chess-engine">SlowFish</a></strong><br>Python chess engine · pygame · depth-5 search.</td>
+    <td width="33%"><a href="https://github.com/shield44-project/Age-Related-Macular-Degeneration"><img alt="Vision" src="https://img.shields.io/badge/%E2%97%89-06B6D4?style=for-the-badge"></a><br><strong><a href="https://github.com/shield44-project/Age-Related-Macular-Degeneration">AMD Detection</a></strong><br>Team retinal-screening project with ViT/DeiT and Grad-CAM.</td>
+    <td width="33%"><a href="https://github.com/tejaswibteggihalli/WasteSort-AI"><img alt="Waste sorting" src="https://img.shields.io/badge/%E2%99%BB-22C55E?style=for-the-badge"></a><br><strong><a href="https://github.com/tejaswibteggihalli/WasteSort-AI">WasteSort AI</a></strong><br>Classifies six waste types and suggests disposal; 96.6% validation accuracy.</td>
   </tr>
   <tr>
-    <td width="50%"><strong><a href="https://github.com/tejaswibteggihalli/WasteSort-AI">♻ WasteSort AI</a></strong><br>EfficientNet-B0 classifies six waste categories and suggests disposal; 96.6% validation accuracy.</td>
-    <td width="50%"><strong><a href="https://github.com/tejaswibteggihalli/3rd_sem_EL">⌘ Quarl</a></strong> <sub>in progress</sub><br>Team learning-based quantum-circuit optimizer using Quartz; I work on encoder ablations.</td>
+    <td width="33%"><a href="https://github.com/tejaswibteggihalli/3rd_sem_EL"><img alt="Quantum" src="https://img.shields.io/badge/%E2%8C%98-EC4899?style=for-the-badge"></a><br><strong><a href="https://github.com/tejaswibteggihalli/3rd_sem_EL">Quarl</a></strong> <sub>in progress</sub><br>Learning-based quantum-circuit optimization using Quartz.</td>
+    <td width="33%"><a href="https://github.com/tejaswibteggihalli/Nand2tetris_Assembler"><img alt="Assembler" src="https://img.shields.io/badge/%E2%96%A4-F97316?style=for-the-badge"></a><br><strong><a href="https://github.com/tejaswibteggihalli/Nand2tetris_Assembler">Hack Assembler</a></strong><br>Two-pass assembler with label resolution and 16-bit output.</td>
+    <td width="33%"><a href="https://github.com/tejaswibteggihalli/Pointers_Guide"><img alt="Pointers" src="https://img.shields.io/badge/%E2%97%87-3B82F6?style=for-the-badge"></a><br><strong><a href="https://github.com/tejaswibteggihalli/Pointers_Guide">C Pointers Field Guide</a></strong><br>Interactive memory visualizer, arithmetic lab, and 70 edge cases.</td>
   </tr>
   <tr>
-    <td width="50%"><strong><a href="https://github.com/tejaswibteggihalli/Nand2tetris_Assembler">▤ Hack Assembler</a></strong><br>Two-pass Nand2Tetris assembler with label resolution and 16-bit machine-code output.</td>
-    <td width="50%"><strong><a href="https://github.com/tejaswibteggihalli/Pointers_Guide">◇ C Pointers Field Guide</a></strong><br>Interactive memory visualizer, pointer-arithmetic lab, and 70 edge-case questions.</td>
+    <td width="33%"><a href="https://github.com/tejaswibteggihalli/Team_Ninad"><img alt="Dayflow" src="https://img.shields.io/badge/%E2%97%B7-A855F7?style=for-the-badge"></a><br><strong><a href="https://github.com/tejaswibteggihalli/Team_Ninad">Dayflow</a></strong><br>Hackathon HR-management prototype with Node.js and SQLite.</td>
+    <td width="33%"><a href="https://github.com/tejaswibteggihalli/GrappyCube---A-scrolling-platformer"><img alt="GrappyCube" src="https://img.shields.io/badge/%E2%86%97-F59E0B?style=for-the-badge"></a><br><strong><a href="https://github.com/tejaswibteggihalli/GrappyCube---A-scrolling-platformer">GrappyCube</a></strong><br>Platformer prototype built around a grapple mechanic.</td>
+    <td width="33%"><img alt="ESP32" src="https://img.shields.io/badge/%E2%97%8C-14B8A6?style=for-the-badge"><br><strong>Embedded builds</strong><br>ESP32 air-quality/fire alert and sensor-driven irrigation prototypes.</td>
   </tr>
 </table>
 
-<details>
-<summary><strong>More projects & interests</strong></summary>
-<br>
+<sub>Also contributed hardware time to Leela Chess Zero; college chess-team member with two tournament wins.</sub>
 
-- [Dayflow](https://github.com/tejaswibteggihalli/Team_Ninad) — HR hackathon prototype · [GrappyCube](https://github.com/tejaswibteggihalli/GrappyCube---A-scrolling-platformer) — grapple-platformer prototype
-- [Chess game](https://github.com/mycuriousmind/chess-game-skill_lab-project) · [Discord bots](https://github.com/tejaswibteggihalli/discord_bots) · [Campus Wi-Fi relogin](https://github.com/igglywigglyw0rm/auto_uni_wifi_login) · [EL projects](https://github.com/tejaswibteggihalli/EL_Projects)
-- Built ESP32 air-quality/fire-alert and sensor-driven irrigation projects; remote hardware contributor to Leela Chess Zero.
-- College chess-team member with two tournament wins. Outside code: competitive swimming, sci-fi, and Veritasium.
-
-</details>
-
-## Toolkit
+## Toolkit & learning
 
 `Python` `Java` `C` `C++` `JavaScript` · `PyTorch` `Kaggle` `Jupyter` · `Arduino` `ESP32` · `Git` `Node.js` `Flask`
-
-## Learning
 
 Nand2Tetris Part 2 · MIT 6.S191 · Python data structures, algorithms & interviews
 
 ## Contributions
 
+<table><tr><td>
+
 <img src="./profile-3d-contrib/profile-season-animate.svg" alt="Animated 3D GitHub contribution graph" width="100%">
+
+</td></tr></table>
 
 <sub>3D calendar generated daily by <a href="https://github.com/yoshi389111/github-profile-3d-contrib">github-profile-3d-contrib</a>.</sub>
 
 ---
 
-<p align="center"><sub>Open to collaboration—especially where CS meets biology. Chess · swimming · sci-fi.</sub></p>
+<p align="center"><sub>Open to collaboration—especially where CS meets biology. Chess · sci-fi · Veritasium.</sub></p>
