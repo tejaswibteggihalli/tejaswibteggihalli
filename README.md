@@ -19,24 +19,24 @@
 - **[SlowFish — chess engine](https://github.com/tejaswibteggihalli/SlowFish-a-python-based-chess-engine)** — A Python chess engine with a pygame interface. Its search uses depth-5 negamax, alpha-beta pruning, move ordering, and piece-square evaluation.
 - **[AMD Detection](https://github.com/shield44-project/Age-Related-Macular-Degeneration)** — A team project investigating retinal screening with vision transformers and Grad-CAM explanations, packaged as a Qt application with a Flask backend.
 - **[WasteSort AI](https://github.com/tejaswibteggihalli/WasteSort-AI)** — An image classifier for six waste categories that recommends disposal. Fine-tuned EfficientNet-B0 reached 96.6% validation accuracy.
-- **[Quarl](https://github.com/tejaswibteggihalli/3rd_sem_EL)** *(in progress)* — A team project using learning-based methods to optimize quantum circuits with Quartz; I work on encoder ablations.
 - **[Hack Assembler](https://github.com/tejaswibteggihalli/Nand2tetris_Assembler)** — A two-pass assembler for the Nand2Tetris Hack language, with symbol resolution and 16-bit machine-code output.
 - **[C Pointers Field Guide](https://github.com/tejaswibteggihalli/Pointers_Guide)** — An interactive guide with a memory visualizer, pointer-arithmetic lab, and 70 edge-case questions.
 - **[Dayflow](https://github.com/tejaswibteggihalli/Team_Ninad)** — A hackathon HR-management prototype built with Node.js and SQLite.
 - **[GrappyCube](https://github.com/tejaswibteggihalli/GrappyCube---A-scrolling-platformer)** — A platformer prototype centered on a grapple mechanic.
 
-I’ve also built ESP32 air-quality and fire-alert systems, plus a sensor-driven irrigation prototype. I’m a member of my college chess team and have filled in for first-team players in two tournament wins.
+I’ve also built an ESP32 air-quality and fire-alert system, plus a sensor-driven irrigation prototype. I play chess as a hobby and have filled in for my college teamwhich resulted in two tournament wins.
 
 ## Toolkit
 
 **Languages:** Python, Java, C, C++, JavaScript  
-**Machine learning:** PyTorch, Kaggle, Jupyter  
+**Machine learning:** PyTorch, Kaggle, Jupyter, Google Colab  
 **Embedded:** Arduino, ESP32  
-**Tools:** Git, Node.js, Flask
+**Tools:** Git
 
 ## Learning
 
-I’m working through Nand2Tetris Part 2, studying MIT 6.S191, and strengthening my Python foundations in data structures, algorithms, and interview problem-solving.
+I have completed the following courses: Nand2Tetris 
+MIT 6.S191 - Deep Learning , and strengthening my Python foundations in data structures, algorithms, and interview problem-solving.
 
 ## Contributions
 
