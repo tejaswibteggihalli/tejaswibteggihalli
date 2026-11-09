@@ -40,21 +40,32 @@ I'm a third-semester (second-year) Computer Science Engineering student at R V C
 
 ## Toolkit
 
-**Languages**
+<table>
+<tr>
+<td valign="top" width="50%">
 
+<b>Languages</b><br><br>
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=222">
 
-**Machine learning**
+<br><br>
 
+<b>Machine learning</b><br><br>
 <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"> <img alt="Google Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=222">
 
-**Embedded**
+</td>
+<td valign="top" width="50%">
 
+<b>Embedded</b><br><br>
 <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white"> <img alt="ESP32" src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white">
 
-**Version control**
+<br><br>
 
+<b>Version control</b><br><br>
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+
+</td>
+</tr>
+</table>
 
 **Core:** Digital Logic Design, Systems Architecture · **Research:** Literature Surveys and Idea Formulation · **Domain:** Chess Engine Development
 
