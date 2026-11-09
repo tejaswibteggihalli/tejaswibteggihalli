@@ -18,7 +18,7 @@
 
 ## About
 
-I'm a third-semester (second-year) Computer Science Engineering student at R V College of Engineering, Bengaluru, with a foundation in systems programming, computer architecture, and applied machine learning.
+I'm a third-semester (second-year) Computer Science Engineering student at R V College of Engineering, Bengaluru, with a foundation in systems programming, computer architecture, and applied machine learning. I built a chess engine from scratch and enjoy understanding how things work from the ground up, from logic gates to CPUs to neural networks. I'm experienced in literature surveys, research methodology, and Git-based workflows, and I'm especially interested in interdisciplinary work where computer science meets biology.
 
 ---
 
@@ -34,7 +34,7 @@ I'm a third-semester (second-year) Computer Science Engineering student at R V C
 | [**Dayflow**](https://github.com/tejaswibteggihalli/Team_Ninad) | Hackathon HR-management prototype built with Node.js and SQLite. |
 | [**GrappyCube**](https://github.com/tejaswibteggihalli/GrappyCube---A-scrolling-platformer) | Platformer prototype centered on a grapple mechanic. |
 
-**Also:** an Arduino-based automated sensor-driven irrigation system (1st-semester EL project) and an ESP32 air-quality and fire-alert prototype. I'm a remote hardware contributor to Leela Chess Zero and an early contributor to Tinygrad.
+**Also:** an Arduino-based automated sensor-driven irrigation system (1st-semester EL project) and an ESP32 air-quality and fire-alert prototype. I'm a remote hardware contributor to Leela Chess Zero (distributed training and evaluation testing) and an active participant on the Stockfish Discord server.
 
 ---
 
@@ -45,18 +45,18 @@ I'm a third-semester (second-year) Computer Science Engineering student at R V C
 <td valign="top" width="50%">
 
 <b>Languages</b><br><br>
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white">
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
 
 <br><br>
 
 <b>Machine learning</b><br><br>
-<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"> <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"> <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> <img alt="Google Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=222">
 
 </td>
 <td valign="top" width="50%">
 
 <b>Embedded</b><br><br>
-<img alt="Arduino" src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white"> <img alt="ESP32" src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"> <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white">
+<img alt="Arduino" src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white"> <img alt="ESP32" src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white">
 
 <br><br>
 
