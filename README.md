@@ -13,6 +13,7 @@
 Second-year Computer Science student at R V College of Engineering, Bengaluru. I like understanding how things work from the ground up, from logic gates to CPUs to neural networks.
 
 - Working through Nand2Tetris Part 2 and studying deep learning
+- Building a quantum circuit optimization project with a team
 - Hands-on with Arduino and ESP32 hardware
 - Open to interdisciplinary work, especially where CS meets biology
 - Outside code: chess, competitive swimming, sci-fi novels, and Veritasium videos
@@ -24,6 +25,7 @@ Second-year Computer Science student at R V College of Engineering, Bengaluru. I
 | **[SlowFish](https://github.com/tejaswibteggihalli/SlowFish-a-python-based-chess-engine)** | Chess engine with a pygame GUI, built from Eddie Sharick's tutorial and extended. Depth-5 negamax with alpha-beta pruning, move ordering and piece-square evaluation. About 30 s a move, hence the name.<br><sub>Python · pygame</sub> |
 | **[AMD Detection](https://github.com/shield44-project/Age-Related-Macular-Degeneration)** | Team coursework project on screening for age-related macular degeneration from fundus images. A ViT-B/16 classifier (80% on a small 30-image clinical set) plus a ResNet-50 that produces Grad-CAM heatmaps. DeiT-Small reached about 91% on validation but 40% on real clinical images. Ships as a Qt desktop app with a Flask backend.<br><sub>Python · PyTorch · C++ · Qt · Flask</sub> |
 | **[WasteSort AI](https://github.com/tejaswibteggihalli/WasteSort-AI)** | Classifies a photo of waste into six categories and suggests how to dispose of it. Fine-tuned EfficientNet-B0 on about 13.9k images, 96.6% validation accuracy.<br><sub>Python · PyTorch · Streamlit</sub> |
+| **[Quarl](https://github.com/tejaswibteggihalli/3rd_sem_EL)** *(in progress)* | Team project: a learning-based quantum circuit optimizer built on Quartz. I work on the encoder-ablation experiments.<br><sub>Python · C++ · OpenQASM</sub> |
 | **[Hack Assembler](https://github.com/tejaswibteggihalli/Nand2tetris_Assembler)** | Two-pass assembler for the Nand2Tetris Hack machine language. The first pass resolves labels so names can be used before they are defined; the second emits 16-bit binary.<br><sub>Python</sub> |
 | **[C Pointers Field Guide](https://github.com/tejaswibteggihalli/Pointers_Guide)** | Interactive single-page guide to C pointers: a step-through memory visualizer, an arithmetic lab and 70 edge-case questions. Made entirely with Claude.<br><sub>HTML · JavaScript</sub> |
 | **Air Quality & Fire Alert System** *(no public repo)* | ESP32 team project from RVCE Experiential Learning. Monitors temperature, humidity, air quality and flame, with an OLED display, buzzer alerts and Blynk integration.<br><sub>ESP32 · C++ · Blynk</sub> |
@@ -47,16 +49,19 @@ Second-year Computer Science student at R V College of Engineering, Bengaluru. I
 
 ## Stack
 
-<div align="center">
+**Languages** &nbsp; `Python` `Java` `C` `C++` `JavaScript`<br>
+**ML** &nbsp; `PyTorch` `Kaggle` `Jupyter`<br>
+**Embedded** &nbsp; `Arduino` `ESP32`<br>
+**Tools** &nbsp; `Git` `GitHub` `Node.js` `Flask`
 
-| | |
-| :-: | :-: |
-| **Languages** | `Python` `Java` `C` `C++` |
-| **ML** | `PyTorch` `Kaggle` `Jupyter` |
-| **Embedded** | `Arduino` `ESP32` |
-| **Tools** | `Git` `GitHub` `Node.js` `Flask` |
+## Activity
 
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/ribbon-dark.svg">
+  <img src="assets/ribbon-light.svg" alt="Commit activity from September 2025 to November 2026, drawn as a Mobius strip with one cell per day" width="100%">
+</picture>
+
+<sub>One cell per day, one column per week, wrapped into a Möbius strip: a surface with only one side, so the loop never quite ends.</sub>
 
 ## Learning
 
