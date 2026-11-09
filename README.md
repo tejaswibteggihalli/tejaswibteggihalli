@@ -54,6 +54,15 @@ Second-year Computer Science student at R V College of Engineering, Bengaluru. I
 **Embedded** &nbsp; `Arduino` `ESP32`<br>
 **Tools** &nbsp; `Git` `GitHub` `Node.js` `Flask`
 
+## Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/ribbon-dark.svg">
+  <img src="assets/ribbon-light.svg" alt="Commit activity from September 2025 to November 2026, drawn as a Mobius strip with one cell per day" width="100%">
+</picture>
+
+<sub>One cell per day, one column per week, wrapped into a Möbius strip: a surface with only one side, so the loop never quite ends.</sub>
+
 ## Learning
 
 - **Nand2Tetris:** Part 1 complete (logic gates to ALU to CPU to assembler); Part 2 (VM translator, compiler, OS) next
