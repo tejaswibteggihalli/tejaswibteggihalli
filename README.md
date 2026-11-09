@@ -1,5 +1,5 @@
 <h1 align="center">Tejaswi B Teggihalli</h1>
-<p align="center"><strong>Computer Science student · RV College of Engineering, Bengaluru</strong><br>Chess engines, systems, machine learning, and embedded hardware.</p>
+<p align="center"><strong>Computer Science student · RV College of Engineering, Bengaluru</strong><br>Interests: Chess engines, System Design and Deep Learning.</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tejaswi-b-teggihalli-a57797382/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
