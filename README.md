@@ -1,5 +1,5 @@
 <h1 align="center">Tejaswi B Teggihalli</h1>
-<p align="center"><strong>Computer Science student · RV College of Engineering, Bengaluru</strong><br>Interests: Chess engines, System Design and Deep Learning.</p>
+<p align="center"><strong>Computer Science student · RV College of Engineering, Bengaluru</strong><br>Chess engines, systems, machine learning, and embedded hardware.</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tejaswi-b-teggihalli-a57797382/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -41,9 +41,11 @@ I’ve also built ESP32 air-quality/fire-alert and sensor-driven irrigation prot
 **Tools**  
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
-## Learning
+## Courses & learning
 
-I’m working through Nand2Tetris Part 2, studying MIT 6.S191, and strengthening my Python foundations in data structures, algorithms, and interview problem-solving.
+**Completed — Nand2Tetris, Part I:** Built up from Boolean logic gates through combinational and sequential chips to an ALU, CPU, assembler, and machine-language programs. It gave me a hands-on foundation in how software instructions map onto hardware.
+
+**Currently studying:** Nand2Tetris Part II (VM translator, compiler, and operating system), MIT 6.S191 Introduction to Deep Learning, and Python data structures, algorithms, and interview problem-solving.
 
 ## Contributions
 
